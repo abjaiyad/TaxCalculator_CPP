@@ -1,7 +1,7 @@
 # Monthly Budget Tracker
 
 ## Program Description
-**MonthlyBudgetTracker_CPP** is a simple C++ program that helps users calculate their household monthly budget. The program prompts the user to input their monthly income and fixed expenses (Rent, Utilities, and Groceries), then calculates and displays the total expenses and remaining savings.
+**MonthlyBudgetTracker** is a simple C++ program that helps users calculate their household monthly budget. The program prompts the user to input their monthly income and fixed expenses (Rent, Utilities, and Groceries), then calculates and displays the total expenses and remaining savings.
 
 ---
 
